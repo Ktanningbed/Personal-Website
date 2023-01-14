@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Personal-Website/static/css/main.3c5579f8.css",
+    "main.js": "/Personal-Website/static/js/main.0bca02ed.js",
+    "static/media/bookreader.png": "/Personal-Website/static/media/bookreader.3338cbf9c3fac3cb9c77.png",
+    "static/media/rockclimbing.png": "/Personal-Website/static/media/rockclimbing.70570c3fcce5538e3b81.png",
+    "static/media/BookRe.png": "/Personal-Website/static/media/BookRe.e0222305468ed11fd7a6.png",
+    "static/media/personalwebsite.png": "/Personal-Website/static/media/personalwebsite.f31efecbb9f77492b638.png",
+    "static/media/groupup.png": "/Personal-Website/static/media/groupup.d195d08c3a71a0147531.png",
+    "static/media/Triway.png": "/Personal-Website/static/media/Triway.fa20b001584c2328eeb6.png",
+    "static/media/city.jpg": "/Personal-Website/static/media/city.1195c590c0e1ae96bceb.jpg",
+    "static/media/nlpsample.png": "/Personal-Website/static/media/nlpsample.e6dfa311ba00487dac73.png",
+    "static/media/scoretracker.png": "/Personal-Website/static/media/scoretracker.4fe47bca7aa669aed168.png",
+    "static/media/Shad.png": "/Personal-Website/static/media/Shad.a0255c34403651bf38cc.png",
+    "index.html": "/Personal-Website/index.html",
+    "main.3c5579f8.css.map": "/Personal-Website/static/css/main.3c5579f8.css.map",
+    "main.0bca02ed.js.map": "/Personal-Website/static/js/main.0bca02ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c5579f8.css",
+    "static/js/main.0bca02ed.js"
+  ]
+}
