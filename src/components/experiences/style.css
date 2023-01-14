@@ -1,0 +1,117 @@
+.experience > h1{
+    background-color: #a2657d;
+    padding: 6px 15px;;
+    max-width: fit-content;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    font-size: 42px;
+}
+
+.experience{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+    border-top: 5px solid var(--secondary-colour);
+    padding-top: 30px;
+    /* margin-top: 30px; */
+    
+}
+
+.links{
+    margin-top: 25px;
+    padding: 5px;
+    
+}
+
+.drive{
+    color: #e8d2db;
+    width: 70px;
+    height: auto;
+    transition: all 0.2s ease-in-out;
+}
+
+.drive:hover{
+    cursor: pointer;
+    transform: translateY(-5px);
+    color: #da87a9;
+}
+
+.experience-container:hover{
+    transform: translateY(-5px);
+    /* cursor: pointer; */
+}
+
+.experiences{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+
+.experience-container{
+    background-color: var(--secondary-colour);
+    border-radius: 20px;
+    display: flex;
+    margin-top: 7px;
+    margin-bottom: 10px;
+    transition: all 0.2s ease-in-out;
+}
+
+.logo{
+    width: 200px;
+    height: auto;
+
+}
+
+.org{
+    overflow: none;
+    width: 250px;
+    min-width: 250px;
+    border-right: 3px solid #a2657d;
+    padding: 20px;
+}
+
+.experience-content{
+    display: flex;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.desc{
+    margin: 0 auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 20px;
+    text-align: left;
+    margin-bottom: 20px;
+    font-size: 1.2rem;
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+@media(max-width: 1100px){
+    .desc{
+        font-size: 1rem;
+    }
+    .drive{
+        width: 40px;
+    }
+}
+
+@media(max-width: 900px){
+    .experience-content{
+        flex-direction: column;
+    }
+    .org{
+        border-right: none;
+        margin: 0 auto;
+    }
+}

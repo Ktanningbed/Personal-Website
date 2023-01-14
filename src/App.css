@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.content{
+  background-color: rgb(39, 21, 1);
+  color: #f5f5f5;
+  /* border-top: 50px solid var(--secondary-colour);
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+}
