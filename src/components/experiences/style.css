@@ -115,3 +115,9 @@ a{
         margin: 0 auto;
     }
 }
+
+@media(max-width: 400px){
+    .experience-content{
+        max-width: 250px;
+    }
+}

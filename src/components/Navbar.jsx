@@ -10,7 +10,8 @@ function Navbar() {
         <a href="#experiences">Experiences</a>
         <a href="#projects">Projects</a>
         
-        <a href="#experiences">Resume</a>
+        <a href="https://drive.google.com/file/d/1ZUoFwXzTWbln2Q4onwcOch2sRexG8ZOI/view?usp=sharing"
+        target='_blank' rel="noopener noreferrer">Resume</a>
       </div>
         
     </div>
