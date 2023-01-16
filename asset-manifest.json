@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.1194a8cd.css",
-    "main.js": "/static/js/main.842981a3.js",
-    "static/media/bookreader.png": "/static/media/bookreader.3338cbf9c3fac3cb9c77.png",
-    "static/media/rockclimbing.png": "/static/media/rockclimbing.70570c3fcce5538e3b81.png",
-    "static/media/BookRe.png": "/static/media/BookRe.a98a572c92e8e2430b2e.png",
-    "static/media/personalwebsite.png": "/static/media/personalwebsite.479a82891f9eb9f1f91f.png",
-    "static/media/groupup.png": "/static/media/groupup.d195d08c3a71a0147531.png",
-    "static/media/Triway.png": "/static/media/Triway.fa20b001584c2328eeb6.png",
-    "static/media/city.jpg": "/static/media/city.1195c590c0e1ae96bceb.jpg",
-    "static/media/nlpsample.png": "/static/media/nlpsample.e6dfa311ba00487dac73.png",
-    "static/media/scoretracker.png": "/static/media/scoretracker.4fe47bca7aa669aed168.png",
-    "static/media/Shad.png": "/static/media/Shad.a0255c34403651bf38cc.png",
-    "index.html": "/index.html",
-    "main.1194a8cd.css.map": "/static/css/main.1194a8cd.css.map",
-    "main.842981a3.js.map": "/static/js/main.842981a3.js.map"
+    "main.css": "/kevin-tan/static/css/main.dc46da3d.css",
+    "main.js": "/kevin-tan/static/js/main.e80d97d2.js",
+    "static/media/bookreader.png": "/kevin-tan/static/media/bookreader.3338cbf9c3fac3cb9c77.png",
+    "static/media/rockclimbing.png": "/kevin-tan/static/media/rockclimbing.70570c3fcce5538e3b81.png",
+    "static/media/BookRe.png": "/kevin-tan/static/media/BookRe.a98a572c92e8e2430b2e.png",
+    "static/media/personalwebsite.png": "/kevin-tan/static/media/personalwebsite.479a82891f9eb9f1f91f.png",
+    "static/media/groupup.png": "/kevin-tan/static/media/groupup.d195d08c3a71a0147531.png",
+    "static/media/Triway.png": "/kevin-tan/static/media/Triway.fa20b001584c2328eeb6.png",
+    "static/media/city.jpg": "/kevin-tan/static/media/city.1195c590c0e1ae96bceb.jpg",
+    "static/media/nlpsample.png": "/kevin-tan/static/media/nlpsample.e6dfa311ba00487dac73.png",
+    "static/media/scoretracker.png": "/kevin-tan/static/media/scoretracker.4fe47bca7aa669aed168.png",
+    "static/media/Shad.png": "/kevin-tan/static/media/Shad.a0255c34403651bf38cc.png",
+    "index.html": "/kevin-tan/index.html",
+    "main.dc46da3d.css.map": "/kevin-tan/static/css/main.dc46da3d.css.map",
+    "main.e80d97d2.js.map": "/kevin-tan/static/js/main.e80d97d2.js.map"
   },
   "entrypoints": [
-    "static/css/main.1194a8cd.css",
-    "static/js/main.842981a3.js"
+    "static/css/main.dc46da3d.css",
+    "static/js/main.e80d97d2.js"
   ]
 }
